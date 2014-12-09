@@ -3,9 +3,9 @@
   <title><![CDATA[Zowiet's blog]]></title>
   <subtitle><![CDATA[每天发点无聊的文章]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-12-09T14:51:41.021Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zowiet.gitcafe.com/"/>
+  <updated>2014-12-09T14:56:25.285Z</updated>
+  <id>http://zowiet.gitcafe.com/</id>
   
   <author>
     <name><![CDATA[Zowiet]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[hello world]]></title>
-    <link href="http://yoursite.com/2014/12/09/hello-world/"/>
-    <id>http://yoursite.com/2014/12/09/hello-world/</id>
+    <link href="http://zowiet.gitcafe.com/2014/12/09/hello-world/"/>
+    <id>http://zowiet.gitcafe.com/2014/12/09/hello-world/</id>
     <published>2014-12-09T03:42:09.000Z</published>
     <updated>2014-12-09T03:42:53.000Z</updated>
     <content type="html"><![CDATA[<p>hahaha<br><a id="more"></a><br>在光滑的地面上摩擦，摩擦啊啊啊啊！</p>
